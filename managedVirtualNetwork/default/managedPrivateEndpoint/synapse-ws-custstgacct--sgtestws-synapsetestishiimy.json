@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--sgtestws-synapsetestishiimy",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/99229d8f-1d67-48e1-89e3-b0fc9332cf9b/resourceGroups/testishiimy/providers/Microsoft.Storage/storageAccounts/synapsetestishiimy",
+		"groupId": "dfs"
+	}
+}

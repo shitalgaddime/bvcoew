@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--sgtestws",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/99229d8f-1d67-48e1-89e3-b0fc9332cf9b/resourceGroups/customer-resource-group01/providers/Microsoft.Synapse/workspaces/sgtestws",
+		"groupId": "sql",
+		"fqdns": [
+			"sgtestws.61bd37ac-ef88-4564-8586-7a7d0b54f322.sql.azuresynapse.net"
+		]
+	}
+}
